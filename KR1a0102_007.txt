@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 葉八白易傳
-#+DATE: 2015-09-23 09:35:11
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 21:57:50.903616
+#+PROPERTY: ID KR1a0102
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1a0102_WYG_007-1a>¶
 欽定四庫全書¶
 　葉八白易傳卷七　　　　　明　葉山　撰¶
@@ -578,4 +580,3 @@
 　蔽也蕩愚何尤焉而蕩幾賊矣易曰過渉滅頂凶无¶
 　咎¶
 　葉八白易傳卷七¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 葉八白易傳
-#+DATE: 2015-09-23 09:35:11
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 21:57:51.116337
+#+PROPERTY: ID KR1a0102
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1a0102_WYG_016-1a>¶
 欽定四庫全書¶
 　葉八白易𫝊卷十六　　　　明　葉山　撰¶
@@ -596,4 +598,3 @@
 　之舛也君子亦知所以慎之乎易曰有孚于飲酒无¶
 　咎濡其首有孚失是¶
 　葉八白易𫝊卷十六¶
-
